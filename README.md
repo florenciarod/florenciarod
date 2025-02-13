@@ -9,7 +9,7 @@
  <div id="header" align="left">
 
 ### 👨‍💻: About me :
- Biologyst passionate about technology and enjoying a job transition to Bioinformatics <img decoding="async" src="🧬" width="30">
+ Biologist passionate about technology and enjoying a job transition to Bioinformatics <img decoding="async" src="🧬" width="30">
 
 * :💼: I am currently working in a Data Analyst consulting company but I'm looking new challenges :💡:
 
