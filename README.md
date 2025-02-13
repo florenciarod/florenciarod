@@ -11,11 +11,11 @@
 ### 👨‍💻: About me :
  Biologist passionate about technology and enjoying a job transition to Bioinformatics <img decoding="async" src="🧬" width="30">
 
-* :💼: I am currently working in a Data Analyst consulting company but I'm looking new challenges :💡:
+* 💼: I am currently working in a Data Analyst consulting company but I'm looking new challenges 💡
 
-* :📖: I'm studing Bioinformatics and practicing SQL y Python, without leaving aside the incredible tools of Microsoft.
+* 📖: I'm studing Bioinformatics and practicing SQL y Python, without leaving aside the incredible tools of Microsoft.
 
-* :🔎: I love discovering new ways to understand the world.
+* 🔎: I love discovering new ways to understand the world.
 
 * :mailbox: ¿Do you want to contact me? [![Linkedin Badge](https://img.shields.io/badge/-Florencia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//florencia-anahi-rodriguez-/)
 
